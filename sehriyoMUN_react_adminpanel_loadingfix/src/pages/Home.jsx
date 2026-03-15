@@ -34,7 +34,7 @@ export default function Home() {
           >
             <div className="lg:col-span-7">
               <div className="mb-4 flex flex-wrap items-center gap-3">
-                <span className="inline-flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-brand-50 ring-1 ring-brand-500/30 dark:bg-slate-900">
+                <span className="inline-flex h-12 w-12 items-center justify-center overflow-hidden">
                   <img src="/images/logo.png" alt="Sehriyo MUN" className="h-full w-full object-contain" />
                 </span>
                 <div className="flex flex-wrap gap-2">

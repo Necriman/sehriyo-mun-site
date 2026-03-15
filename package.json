@@ -1,0 +1,9 @@
+{
+  "name": "sehriyoMUN_fixed_i18n",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix sehriyoMUN_react_adminpanel_loadingfix",
+    "build": "npm run build --prefix sehriyoMUN_react_adminpanel_loadingfix",
+    "preview": "npm run preview --prefix sehriyoMUN_react_adminpanel_loadingfix"
+  }
+}

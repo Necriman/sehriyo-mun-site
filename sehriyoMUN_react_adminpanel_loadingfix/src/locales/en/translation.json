@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "home": "Home",
+    "committees": "Committees",
+    "schedule": "Schedule",
+    "team": "Team",
+    "apply": "Apply"
+  },
+  "hero": {
+    "title": "Sehriyo MUN",
+    "subtitle": "A modern, high‑impact Model United Nations conference in Tashkent.",
+    "cta_primary": "Apply now",
+    "cta_secondary": "View committees"
+  },
+  "home": {
+    "badges": {
+      "date": "April 11",
+      "city": "Tashkent"
+    },
+    "headline": {
+      "top": "Modern. Clean. Confident.",
+      "bottom": "A new Sehriyo MUN experience."
+    },
+    "hero_p1": "Sehriyo MUN is a Model United Nations conference where delegates debate real-world issues, practice diplomacy, and build leadership through structured, fast-paced sessions.",
+    "hero_p2": "Expect clear procedure, strong chairing, and a premium atmosphere — with training and support for new delegates. Our goal is to make every participant leave with stronger public speaking, negotiation, and teamwork skills.",
+    "explore_committees": "Explore committees",
+    "stats": {
+      "committees": "Committees",
+      "delegates": "Delegates",
+      "day": "Conference",
+      "training": "Included"
+    },
+    "timeline": {
+      "title": "Conference timeline",
+      "year": "2026",
+      "items": {
+        "reg": "Registration opens",
+        "training": "Training session",
+        "day": "Conference day",
+        "cert": "Certificates"
+      },
+      "when": {
+        "now": "Now",
+        "before": "Before event",
+        "april11": "April 11",
+        "sameday": "Same day"
+      }
+    },
+    "ready": {
+      "title": "Ready to join?",
+      "text": "Submit your application — it will be stored securely and reviewed by the team."
+    },
+    "about": {
+      "h2": "Real debate. Real diplomacy. Real growth.",
+      "p": "Sehriyo MUN is built for delegates who want a clean, professional conference experience. We focus on strong moderation, clear rules of procedure, and a supportive environment.",
+      "cards": {
+        "t1": "Training & guides",
+        "d1": "For beginners and experienced delegates",
+        "t2": "Strong chairing",
+        "d2": "Fast, fair, and structured debate",
+        "t3": "Certificates",
+        "d3": "Awarded on the conference day",
+        "t4": "Networking",
+        "d4": "Meet motivated students across the city"
+      },
+      "photo_chip": "Official conference photo"
+    },
+    "choose": {
+      "h2": "Choose where you shine",
+      "view_all": "View all",
+      "details": "Details →"
+    },
+    "highlight_block": {
+      "h3": "A premium, fast-paced debate experience",
+      "p": "Clean debate flow, strong chairs, and an atmosphere that pushes delegates to their best performance — without visual chaos.",
+      "meet_team": "Meet the team"
+    }
+  },
+  "highlights": {
+    "title": "Why Sehriyo MUN",
+    "cards": [
+      {
+        "title": "Strong debate",
+        "text": "Challenging agendas, smart moderation, and real negotiation."
+      },
+      {
+        "title": "Modern format",
+        "text": "Clean experience, fast logistics, and clear communication."
+      },
+      {
+        "title": "Growth",
+        "text": "Public speaking, policy writing, teamwork, and leadership."
+      }
+    ]
+  },
+  "committees": {
+    "title": "Committees",
+    "see_all": "See all committees",
+    "agenda": "Agenda",
+    "page_intro": "Explore committees and agendas. Click a committee to see details.",
+    "loading": "Loading…"
+  },
+  "committee_detail": {
+    "loading": "Loading…",
+    "not_found": "Committee not found",
+    "back_to_committees": "Back to committees",
+    "bureau": "Bureau",
+    "chairs_count": "{{count}} chair(s)",
+    "about": "About",
+    "bureau_soon": "Bureau will be announced."
+  },
+  "team": {
+    "title": "Team",
+    "intro": "Meet the secretariat and chairs behind Sehriyo MUN.",
+    "chairs": "Chairs",
+    "committee": "Committee",
+    "loading": "Loading…"
+  },
+  "apply": {
+    "title": "Apply",
+    "subtitle": "Fill in the form below. Your application will appear in the organizers’ dashboard.",
+    "page_desc": "Fill the form below. Your application will be stored securely and reviewed by the team.",
+    "success_title": "Application submitted!",
+    "success_text": "We received your application. We’ll contact you soon.",
+    "err_name_email": "Please fill in your name and email.",
+    "err_supabase_missing": "Supabase is not configured. Add VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in .env and restart.",
+    "grade": "Grade",
+    "grade_ph": "e.g., 9",
+    "committee_hint": "You can change later if needed.",
+    "motivation_hint": "Why do you want to join Sehriyo MUN?",
+    "motivation_ph": "Write briefly (3–6 sentences)...",
+    "experience": "Experience",
+    "experience_hint": "If you have MUN/leadership experience, mention it.",
+    "experience_ph": "MUN conferences, awards, roles...",
+    "submit_loading": "Submitting...",
+    "dashboard_title": "Apply dashboard",
+    "dashboard_text": "We store applications in Supabase. You can view, filter, and export them in the Supabase table view.",
+    "setup": "Setup",
+    "setup_steps": {
+      "s1": "Create Supabase project",
+      "s2": "Run SQL from README",
+      "s3": "Add env vars and restart"
+    }
+  },
+  "form": {
+    "full_name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "school": "School",
+    "preferred_committee": "Preferred committee",
+    "experience": "MUN experience",
+    "motivation": "Motivation",
+    "submit": "Submit application",
+    "ph_name": "Your name",
+    "ph_school": "School name"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "schedule": {
+    "title": "Conference schedule",
+    "intro": "Browse conference days and see the detailed timeline.",
+    "empty": "No events for this day yet.",
+    "no_days": "Schedule is not configured yet."
+  },
+  "lang": {
+    "label": "Language",
+    "en": "EN",
+    "ru": "RU"
+  },
+  "common": {
+    "open": "Open",
+    "back": "Back",
+    "toggle_theme": "Toggle theme"
+  },
+  "admin": {
+    "nav": "Admin",
+    "login_title": "Organizer login",
+    "login_subtitle": "Sign in to manage applications.",
+    "email": "Email",
+    "password": "Password",
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "not_admin": "This account doesn’t have admin access.",
+    "loading": "Loading…",
+    "env_missing": "Supabase env is missing. Add VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY to your .env and restart dev server.",
+    "title": "Applications",
+    "filters": "Filters",
+    "status": "Status",
+    "all": "All",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "search": "Search",
+    "search_ph": "Name, email, school…",
+    "created": "Created",
+    "committee": "Committee",
+    "actions": "Actions",
+    "approve": "Approve",
+    "reject": "Reject",
+    "delete": "Delete",
+    "confirm_delete": "Delete this application?"
+  },
+  "notfound": {
+    "title": "Page not found",
+    "home": "Go home"
+  }
+}
